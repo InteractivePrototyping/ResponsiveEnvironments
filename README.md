@@ -6,6 +6,7 @@ During this project we will be looking at different inputs and outputs. Within t
 ## Inputs
 
 - Switch/Button
+- Read the sensor data
 - IR sensor as a switch (digitalRead)
 - IR sensor measuring distance (analogRead)
 
