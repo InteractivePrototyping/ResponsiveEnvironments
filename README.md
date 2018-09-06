@@ -6,11 +6,11 @@ During this project we will be looking at different inputs and outputs. Within t
 ## Inputs
 
 - Switch/Button
-- IR sensor as a switch
-- IR sensor measuring distance
+- IR sensor as a switch (digitalRead)
+- IR sensor measuring distance (analogRead)
 
 ## Outputs
 
-- Blinking light
-- Fading light or motor
+- Blinking light (digitalWrite)
+- Fading light or motor (analogWrite)
 - Servo motors
